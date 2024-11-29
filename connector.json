@@ -2,13 +2,13 @@
   "images": [],
   "name": "Demo Writeback Connector ",
   "connectorType": "writeback",
-  "type": "none",
+  "type": "basic",
   "authCodeText": null,
   "userName": null,
   "password": null,
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
     {
@@ -49,7 +49,7 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:160"
+      "$$hashKey": "object:198"
     }
   ],
   "commands": null,
